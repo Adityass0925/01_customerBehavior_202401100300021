@@ -67,6 +67,11 @@ The model uses machine learning (Random Forest Classifier) to analyze this data 
 
 ---
 
+## Result
+- ![Screenshot_22-4-2025_104630_colab research google com](https://github.com/user-attachments/assets/183b5bbf-081a-427b-baa3-44ec229654da)
+
+---
+
 ## 📁 How to Run the Project
 
 1. Clone this repository:
